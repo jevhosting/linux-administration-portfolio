@@ -24,4 +24,6 @@ The purpose of this lab was to practice installing Linux servers, configuring vi
 
 ## Documentation
 
-The full lab documentation includes the installation process, commands, explanations, and screenshots showing the results for both servers.
+The full lab documentation includes the installation and configuration of Ubuntu Server and CentOS Stream 10, along with network connectivity tests, SSH remote access, SCP file transfers, and screenshots showing the results.
+
+View Server Setup Documentation
